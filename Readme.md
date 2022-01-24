@@ -78,7 +78,7 @@ python main.py --arch MobileNet  --quantize Lin
 --checkpoint <path to starting network>
 ```
 
-### How to cite this paper
+### How to cite this paper ?
 
 Use the following `bibtex` entry to cite this paper:
 
